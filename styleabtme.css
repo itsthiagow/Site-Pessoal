@@ -1,0 +1,166 @@
+@import url('https://fonts.googleapis.com/css2?family=Jost:ital,wght@0,100;0,200;0,300;0,400;1,100;1,200;1,300&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Jost', sans-serif;
+}
+
+.header {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    padding: 20px 10%;
+    background: rgb(40, 128, 155);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    z-index: 100 ;
+}
+
+.logo {
+    font-size: 25px;
+    color: black;
+    text-decoration: none;
+    font-weight: 700;
+}
+
+.navbar a {
+    font-size: 20px;
+    color: aliceblue;
+    text-decoration: none;
+    font-weight: 500;
+    margin-left: 20px;
+}
+
+.navbar a:hover,
+.navbar a.active {
+    color: aqua;
+}
+
+.body {
+    margin: 0;
+}
+
+.infobox{
+    background-color: rgb(33, 94, 129);
+    display: flex;
+    justify-content: space-between;
+    padding: 40px;
+    width: 1000px;
+    margin: 7rem auto 0 auto;
+
+}
+
+.infobox img{
+    height: 250px;;
+}
+
+.infobox h1{
+    margin: 0;
+    color: rgb(0, 0, 0);
+}
+
+.infobox p{
+    color: rgb(255, 255, 255);
+    margin: 15px;
+}
+
+.infobox2{
+    background-color: rgb(33, 94, 129);
+    display: flex;
+    justify-content: space-between;
+    padding: 40px;
+    width: 1000px;
+    margin: 3rem auto 0 auto;
+
+}
+
+.infobox2 img{
+    height: 250px;;
+}
+
+.infobox2 h1{
+    margin: 0;
+    color: rgb(0, 0, 0);
+}
+
+.infobox2 p{
+    color: rgb(255, 255, 255);
+    margin: 15px;
+}
+
+.infobox3{
+    background-color: rgb(33, 94, 129);
+    display: flex;
+    justify-content: space-between;
+    padding: 40px;
+    width: 1000px;
+    margin: 3rem auto 0 auto;
+
+}
+
+.infobox3 img{
+    height: 250px;;
+}
+
+.infobox3 h1{
+    margin: 0;
+    color: rgb(0, 0, 0);
+}
+
+.infobox3 p{
+    color: rgb(255, 255, 255);
+    margin: 15px;
+}
+
+.infobox4{
+    background-color: rgb(33, 94, 129);
+    display: flex;
+    justify-content: space-between;
+    padding: 40px;
+    width: 1000px;
+    margin: 3rem auto 0 auto;
+
+}
+
+.infobox4 img{
+    height: 250px;;
+}
+
+.infobox4 h1{
+    margin: 0;
+    color: rgb(0, 0, 0);
+}
+
+.infobox4 p{
+    color: rgb(255, 255, 255);
+    margin: 15px;
+}
+
+.infobox5{
+    background-color: rgb(33, 94, 129);
+    display: flex;
+    justify-content: space-between;
+    padding: 40px;
+    width: 1000px;
+    margin: 3rem auto 0 auto;
+
+}
+
+.infobox5 img{
+    height: 250px;;
+}
+
+.infobox5 h1{
+    margin: 0;
+    color: rgb(0, 0, 0);
+}
+
+.infobox5 p{
+    color: rgb(255, 255, 255);
+    margin: 15px;
+}
+
